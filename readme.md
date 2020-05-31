@@ -3,7 +3,9 @@ Just a pasted modified timer that I abandoned to work on a while ago
 
 # Credit 
 shavit and slidy for the code that I pasted
+
 blank, sevve, pow for ideas and motivation
+
 and some people that I fotget :D
 
 # How to install
